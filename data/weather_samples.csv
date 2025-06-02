@@ -1,0 +1,33 @@
+city,month,temperature_avg,temperature_min,temperature_max,rainfall_mm,humidity_percent,weather_condition
+Islamabad,January,10,2,18,56,65,Clear
+Islamabad,April,25,15,35,45,45,Partly Cloudy
+Islamabad,July,32,25,38,267,70,Rainy
+Islamabad,October,28,18,35,35,50,Clear
+Karachi,January,20,12,28,5,65,Clear
+Karachi,April,30,22,36,2,60,Clear
+Karachi,July,32,27,37,98,75,Rainy
+Karachi,October,32,24,38,3,65,Clear
+Lahore,January,12,4,20,23,70,Clear
+Lahore,April,30,20,38,35,50,Partly Cloudy
+Lahore,July,34,28,40,202,65,Rainy
+Lahore,October,30,20,36,12,55,Clear
+Peshawar,January,10,2,18,44,70,Clear
+Peshawar,April,28,18,36,52,45,Partly Cloudy
+Peshawar,July,36,28,42,48,50,Clear
+Peshawar,October,28,18,34,22,50,Clear
+Quetta,January,5,-2,12,34,65,Clear
+Quetta,April,20,10,28,35,45,Clear
+Quetta,July,28,20,34,12,40,Clear
+Quetta,October,22,12,30,5,45,Clear
+Faisalabad,January,12,4,20,23,70,Clear
+Faisalabad,April,32,22,38,35,45,Partly Cloudy
+Faisalabad,July,36,28,42,202,60,Rainy
+Faisalabad,October,30,20,36,12,50,Clear
+Multan,January,14,6,22,7,65,Clear
+Multan,April,34,24,40,12,40,Clear
+Multan,July,38,30,44,48,50,Clear
+Multan,October,32,22,38,5,45,Clear
+Hyderabad,January,18,10,26,2,65,Clear
+Hyderabad,April,34,24,40,2,45,Clear
+Hyderabad,July,34,28,38,98,70,Rainy
+Hyderabad,October,32,24,38,5,60,Clear 

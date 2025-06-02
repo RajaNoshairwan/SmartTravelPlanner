@@ -1,0 +1,20 @@
+hotel_id,city,name,rating,price_per_night,location,description,amenities,category
+H001,Islamabad,Serena Hotel,4.8,25000,Diplomatic Enclave,"Luxury 5-star hotel in the heart of Islamabad's diplomatic enclave","WiFi, Pool, Spa, Restaurant",Luxury
+H002,Islamabad,Marriott Hotel,4.7,22000,Blue Area,"Modern luxury hotel in Islamabad's business district","WiFi, Gym, Restaurant, Bar",Luxury
+H003,Islamabad,Ramada Hotel,4.5,18000,Blue Area,"Contemporary hotel with excellent city views","WiFi, Pool, Restaurant",Business
+H004,Karachi,Avari Towers,4.7,20000,Clifton,"Iconic luxury hotel overlooking the Arabian Sea","WiFi, Pool, Spa, Restaurant",Luxury
+H005,Karachi,Marriott Hotel,4.6,22000,Clifton,"Premium hotel with stunning sea views","WiFi, Gym, Restaurant, Bar",Luxury
+H006,Karachi,Beach Luxury Hotel,4.4,15000,Clifton Beach,"Beachfront hotel with direct access to the sea","WiFi, Beach Access, Restaurant",Resort
+H007,Lahore,Pearl Continental,4.8,23000,Mall Road,"Historic luxury hotel in the heart of Lahore","WiFi, Pool, Spa, Restaurant",Luxury
+H008,Lahore,Nishat Hotel,4.7,21000,Gulberg,"Modern hotel in Lahore's upscale district","WiFi, Gym, Restaurant, Bar",Luxury
+H009,Lahore,Faletti's Hotel,4.5,17000,Mall Road,"Heritage hotel with colonial architecture","WiFi, Restaurant, Garden",Heritage
+H010,Peshawar,PC Hotel,4.6,19000,University Road,"Premium hotel in central Peshawar","WiFi, Restaurant, Conference",Business
+H011,Peshawar,Grand Hotel,4.4,15000,University Road,"Comfortable hotel with traditional hospitality","WiFi, Restaurant",Standard
+H012,Quetta,Quetta Serena,4.5,18000,Airport Road,"Luxury hotel with mountain views","WiFi, Restaurant, Garden",Luxury
+H013,Quetta,Hotel Bloom Star,4.3,12000,Airport Road,"Modern hotel with excellent service","WiFi, Restaurant",Standard
+H014,Faisalabad,Hotel One,4.4,16000,D Ground,"Contemporary hotel in central Faisalabad","WiFi, Restaurant, Gym",Business
+H015,Faisalabad,Serena Hotel,4.6,20000,D Ground,"Upscale hotel with premium amenities","WiFi, Pool, Restaurant",Luxury
+H016,Multan,Ramada Hotel,4.5,17000,Abdali Road,"Modern hotel in the heart of Multan","WiFi, Pool, Restaurant",Business
+H017,Multan,Hotel One,4.4,15000,Abdali Road,"Comfortable hotel with excellent service","WiFi, Restaurant",Standard
+H018,Hyderabad,Hotel Faran,4.3,14000,Saddar,"Traditional hotel with local charm","WiFi, Restaurant",Standard
+H019,Hyderabad,Regent Plaza,4.5,16000,Saddar,"Modern hotel with city views","WiFi, Pool, Restaurant",Business 

@@ -1,0 +1,84 @@
+city,country,latitude,longitude,province
+Islamabad,Pakistan,33.7294,73.0931,Islamabad Capital Territory
+Lahore,Pakistan,31.5204,74.3587,Punjab
+Karachi,Pakistan,24.8607,67.0011,Sindh
+Faisalabad,Pakistan,31.4504,73.135,Punjab
+Rawalpindi,Pakistan,33.6007,73.0679,Punjab
+Multan,Pakistan,30.1575,71.5249,Punjab
+Hyderabad,Pakistan,25.3969,68.3778,Sindh
+Gujranwala,Pakistan,32.1877,74.1945,Punjab
+Peshawar,Pakistan,34.015,71.5249,Khyber Pakhtunkhwa
+Quetta,Pakistan,30.1798,66.975,Balochistan
+Bahawalpur,Pakistan,29.3955,71.6726,Punjab
+Sargodha,Pakistan,32.0836,72.6711,Punjab
+Sialkot,Pakistan,32.4927,74.5313,Punjab
+Sukkur,Pakistan,27.7132,68.8482,Sindh
+Larkana,Pakistan,27.5589,68.212,Sindh
+Sheikhupura,Pakistan,31.7131,73.9783,Punjab
+Rahim Yar Khan,Pakistan,28.4202,70.2952,Punjab
+Jhang,Pakistan,31.2682,72.3181,Punjab
+Dera Ghazi Khan,Pakistan,30.0504,70.6345,Punjab
+Gujrat,Pakistan,32.5737,74.0789,Punjab
+Sahiwal,Pakistan,30.6646,73.1016,Punjab
+Wah Cantonment,Pakistan,33.7731,72.7451,Punjab
+Mardan,Pakistan,34.1983,72.0458,Khyber Pakhtunkhwa
+Kasur,Pakistan,31.1187,74.4513,Punjab
+Okara,Pakistan,30.808,73.4458,Punjab
+Mingora,Pakistan,34.7795,72.3627,Khyber Pakhtunkhwa
+Nawabshah,Pakistan,26.2442,68.41,Sindh
+Chiniot,Pakistan,31.7199,72.984,Punjab
+Kotri,Pakistan,25.3656,68.3081,Sindh
+Kāmoke,Pakistan,31.9753,74.2241,Punjab
+Hafizabad,Pakistan,32.0709,73.688,Punjab
+Sadiqabad,Pakistan,28.3062,70.1306,Punjab
+Mirpur Khas,Pakistan,25.5276,69.0126,Sindh
+Burewala,Pakistan,30.1667,72.65,Punjab
+Kohat,Pakistan,33.5869,71.4414,Khyber Pakhtunkhwa
+Mīrpur,Pakistan,33.1447,73.7516,AJK
+Nowshera,Pakistan,34.0153,71.9817,Khyber Pakhtunkhwa
+Chishtian,Pakistan,29.7978,72.8578,Punjab
+Khanewal,Pakistan,30.3017,71.9321,Punjab
+Jhelum,Pakistan,32.9333,73.7333,Punjab
+Hub,Pakistan,25.0167,67.0833,Balochistan
+Daska,Pakistan,32.3242,74.3504,Punjab
+Kandhkot,Pakistan,28.4,69.3,Sindh
+Chakwal,Pakistan,32.9333,72.85,Punjab
+Bahawalnagar,Pakistan,29.9944,73.2536,Punjab
+Muridke,Pakistan,31.802,74.255,Punjab
+Pakpattan,Pakistan,30.3411,73.3864,Punjab
+Abottabad,Pakistan,34.15,73.2167,Khyber Pakhtunkhwa
+Tando Adam,Pakistan,25.7667,68.6667,Sindh
+Jāmpur,Pakistan,29.6417,70.5958,Punjab
+Chaman,Pakistan,30.921,66.4597,Balochistan
+Khuzdar,Pakistan,27.7381,66.6433,Balochistan
+Kamalia,Pakistan,30.7333,72.65,Punjab
+Umerkot,Pakistan,25.3611,69.7361,Sindh
+Ahmedpur East,Pakistan,29.1427,71.2577,Punjab
+Kot Addu,Pakistan,30.47,70.9644,Punjab
+Wazirabad,Pakistan,32.45,74.1167,Punjab
+Loralai,Pakistan,30.3705,68.5979,Balochistan
+Dera Ismail Khan,Pakistan,31.8167,70.9167,Khyber Pakhtunkhwa
+Rajanpur,Pakistan,29.1041,70.3297,Punjab
+Leiah,Pakistan,30.9646,70.9394,Punjab
+Kotli,Pakistan,33.5156,73.9019,AJK
+Rohri,Pakistan,27.692,68.895,Sindh
+Loralai,Pakistan,30.3705,68.5979,Balochistan
+Dera Bugti,Pakistan,29.0364,69.1585,Balochistan
+Hangu,Pakistan,33.5283,71.0572,Khyber Pakhtunkhwa
+Turbat,Pakistan,26.0022,63.05,Balochistan
+Dera Murad Jamali,Pakistan,28.5466,68.2231,Balochistan
+Gwadar,Pakistan,25.1214,62.3254,Balochistan
+Mastung,Pakistan,29.7997,66.8455,Balochistan
+Dasu,Pakistan,35.2917,73.2917,Khyber Pakhtunkhwa
+Athmuqam,Pakistan,34.5717,73.8972,AJK
+Gilgit,Pakistan,35.9208,74.3144,Gilgit-Baltistan
+Skardu,Pakistan,35.2971,75.6339,Gilgit-Baltistan
+Chilas,Pakistan,35.4194,74.0944,Gilgit-Baltistan
+Astore,Pakistan,35.3667,74.85,Gilgit-Baltistan
+Ghanche,Pakistan,35.75,76.3333,Gilgit-Baltistan
+Kharmang,Pakistan,35.0167,76.3333,Gilgit-Baltistan
+Shigar,Pakistan,35.4333,75.7333,Gilgit-Baltistan
+Ronde,Pakistan,35.85,74.6333,Gilgit-Baltistan
+Nagar,Pakistan,36.3667,74.6833,Gilgit-Baltistan
+Hunza,Pakistan,36.3167,74.65,Gilgit-Baltistan 
+Shahdadkot,Pakistan,27.8468014,67.908116,Unknown
