@@ -2,16 +2,16 @@
 
 A modern travel planning application for Pakistan that helps you plan your perfect trip with interactive maps, budget estimation, and comprehensive travel information.
 
-## Features
-
-- 🗺️ Interactive maps with routes and points of interest
-- 💰 Budget estimation for transportation, accommodation, food, and activities
-- 🌤️ Weather information (live via OpenWeatherMap API or sample data)
-- ⚠️ Safety tips and travel advisories
-- 🏛️ Top attractions and restaurants
-- 📱 Two interfaces:
-  - Streamlit web app (modern, responsive UI)
-  - Jupyter notebook (interactive widgets)
+Smart Travel Planner helps users:
+- **Calculate distances** between Pakistani cities via Geopy/Nominatim.
+- **Estimate travel budgets** including transport, accommodation, food, and activities.
+- **Browse city-specific hotels, attractions, and restaurants**.
+- **View current weather** via OpenWeatherMap, with offline fallback.
+- **Get safety tips** for each city, including general, health, and transportation advice.
+- **Visualize routes on an interactive Folium map**.
+- **Run in two modes**:
+  - **Streamlit app** (`travel_app.py`) for browser-based UI.
+  - **Jupyter notebook** (`travel_planner.ipynb`) with ipywidgets.
 
 ## Quick Start
 
